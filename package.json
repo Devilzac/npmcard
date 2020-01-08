@@ -1,6 +1,6 @@
 {
   "name": "ksrm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Personal npm card for Kavan (@Devilzac)",
   "main": "dist/card.js",
   "unpkg": "index.html",
